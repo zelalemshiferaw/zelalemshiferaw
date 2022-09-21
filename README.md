@@ -11,6 +11,11 @@ Software Engineer.Experience working on Software development,Odoo ERP,Machine Le
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
 <img src="https://seekvectorlogo.com/wp-content/uploads/2019/06/odoo-vector-logo.png" alt="Odoo" width="50" height="50" />
+<img src = "https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"  alt="Linux" width="50" height="50" />
+<img src = "https://img.shields.io/badge/docker-F1502F?style=flat&logo=docker&logoColor=white"  alt="docker" width="50" height="50" />
+<img src = "https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"  alt="Mysql" width="50" height="50">
+<img src = "https://img.shields.io/badge/mlflow-019733?style=flat&logo=mlflow&logoColor=white" alt="Mlflow" width="60" height="60" />
+<img src = "https://img.shields.io/badge/dvc-1572B6?style=flat&logo=dvc&logoColor=white" alt="dvc" width="60" height="60"/>
 
 ## GitHub Metrics
 
