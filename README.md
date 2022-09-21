@@ -10,6 +10,7 @@ Software Engineer.Experience working on Software development,Odoo ERP,Machine Le
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="60" height="60"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" width="50" height="50"/>
+<img src="https://seekvectorlogo.com/wp-content/uploads/2019/06/odoo-vector-logo.png" alt="Odoo" width="50" height="50" />
 
 ## GitHub Metrics
 
