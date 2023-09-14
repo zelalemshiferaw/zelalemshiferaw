@@ -18,4 +18,16 @@ Software Engineer.Experience working on Software development,Odoo ERP,Machine Le
 <img src = "https://img.shields.io/badge/dvc-1572B6?style=flat&logo=dvc&logoColor=white" alt="dvc" width="40" height="40"/>
 
 
+<a href="https://github.com/zelalemshiferaw">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zelalemshiferaw&show_icons=false&theme=light&line_height=40&title_color=7221ff&count_private=true"
+</a>
+
+<a href="https://github.com/zelalemshiferaw/pin_code_fields">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=zelalemshiferaw&repo=pin_code_fields&theme=light&title_color=0084ff" />
+</a>
+
+<a href="https://github.com/zelalemshiferaw/tab_indicator_styler">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=zelalemshiferaw&repo=tab_indicator_styler&theme=light&title_color=0084ff" />
+</a>
+
 
