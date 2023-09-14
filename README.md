@@ -1,6 +1,6 @@
 ### Hi there 👋 It's Zelalem Shiferaw
 Software Engineer.Experience working on Software development,Odoo ERP,Machine Learning and Deep Learning projects.
-- 🔭 I’m currently working on Odoo development
+- I’m currently working on Odoo development
 - 📫 Contact me via:
   - Mail: `zelalemshiferaw71921@gmail.com`
 
