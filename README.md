@@ -17,7 +17,5 @@ Software Engineer.Experience working on Software development,Odoo ERP,Machine Le
 <img src = "https://img.shields.io/badge/mlflow-019733?style=flat&logo=mlflow&logoColor=white" alt="Mlflow" width="40" height="40" />
 <img src = "https://img.shields.io/badge/dvc-1572B6?style=flat&logo=dvc&logoColor=white" alt="dvc" width="40" height="40"/>
 
-<a href="https://github.com/zelalemshiferaw?tab=repositories">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zelalemshiferaw&theme=light&hide_langs_below=0&title_color=000" />
-</a>
+
 
